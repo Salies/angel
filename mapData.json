@@ -1,0 +1,37 @@
+[
+    {
+        "name": "de_ancient",
+        "pretty_name": "Ancient",
+        "image": "https://liquipedia.net/commons/images/5/56/AncientASite.jpg"
+    },
+    {
+        "name": "de_dust2",
+        "pretty_name": "Dust II",
+        "image": "https://liquipedia.net/commons/images/d/d7/CS2_Dust_2_A_Site.jpg"
+    },
+    {
+        "name": "de_inferno",
+        "pretty_name": "Inferno",
+        "image": "https://static.wikia.nocookie.net/cswikia/images/2/26/CS2_Inferno_new_A_site.png/revision/latest?cb=20250730204844"
+    },
+    {
+        "name": "de_mirage",
+        "pretty_name": "Mirage",
+        "image": "https://static.wikia.nocookie.net/cswikia/images/1/1c/CS2_Mirage_A_site.png/revision/latest?cb=20231201224551"
+    },
+    {
+        "name": "de_overpass",
+        "pretty_name": "Overpass",
+        "image": "https://static.wikia.nocookie.net/cswikia/images/5/55/Overpass_loading_screen.png/revision/latest?cb=20250730205333"
+    },
+    {
+        "name": "de_nuke",
+        "pretty_name": "Nuke",
+        "image": "https://liquipedia.net/commons/images/f/f5/CS2_Nuke_Outside.jpeg"
+    },
+    {
+        "name": "de_train",
+        "pretty_name": "Train",
+        "image": "https://liquipedia.net/counterstrike/File:CS2_de_train.png"
+    }
+]
